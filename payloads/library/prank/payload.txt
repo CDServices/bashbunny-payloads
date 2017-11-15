@@ -1,0 +1,18 @@
+#
+#
+# Title:             "Stashing PayLoad"
+# Author:            CDS4LIFE
+#                    
+# Category:          Fun/Prank
+# Target:.           Windows 
+LED R
+LANGUAGE='gb'
+ATTACKMODE HID
+Q DELAY 3000
+Q GUI r
+Q DELAY 150
+Q STRING iexplore -k https://www.hak5.org
+Q ENTER
+Q CTRL-ALT DEL
+Q ENTER
+LED G
